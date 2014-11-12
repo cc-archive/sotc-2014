@@ -13,6 +13,16 @@
 	{% else %}
 		<body>
 	{% endif %}
-{{ content }}
+	
+<h1><a href="/">{{ page.title }}</a></h1>
+<div class="container" style="max-width: 800px; ">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				{{ content }}
+			</div>
+		</div>
+	</div>
 </body>
 </html>
+
+

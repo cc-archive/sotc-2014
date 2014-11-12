@@ -1,6 +1,4 @@
 body {
-	background-color: black;
-	color: white;
 	}
 
 a {
@@ -11,6 +9,12 @@ a:hover {
 	color: inherit;
 	}
 	
+h1 {
+	color: #60b349;
+	text-align: center;
+	padding: 10px;
+	}
+
 #report {
 	background-color: white;
 	}
