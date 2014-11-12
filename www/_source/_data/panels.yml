@@ -1,0 +1,21 @@
+- order: 1
+  img: /img/sotc1.png
+
+- order: 2
+  img: /img/sotc2.png
+
+- order: 3
+  img: /img/sotc3.png
+
+- order: 4
+  img: /img/sotc4.png
+
+- order: 5
+  img: /img/sotc5.png
+
+- order: 6
+  img: /img/sotc6.png
+
+- order: 7
+  img: /img/sotc7.png
+

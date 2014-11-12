@@ -1,23 +1,24 @@
 ---
-layout: default
+layout: home
+title: The State of the Commons
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="container-fluid">
+	{% for panel in site.data.panels %}
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8" id="report">
+				<img src="{{ panel.img }}" style="max-width: 100%; ">
+			</div>
+			
+			<div class="hidden-xs hidden-sm col-md-4 col-lg-4" style="vertical-align: 80px; ">
+				<a href="http://google.com/" target="_blank" style="text-decoration: none; "><div class="circle" style="background-image: url(/img/twitter-green.png);"><div class="circletext">share on twitter</div></div></a>
+<a href="{{ panel.facebook }}" target="_blank" style="text-decoration: none; "><div class="circle" style="background-image: url(/img/facebook-green.png); "><div class="circletext">share on facebook</div></div></a>
+			</div>
+			
+			<div class="col-xs-12 col-sm-12 hidden-md hidden-lg" style="background-color: white; text-align: center; padding-top: 5px; padding-bottom: 5px; ">
+				<img src="/img/facebook-green-small.png"> <img src="/img/twitter-green-small.png">
+			</div>	
+			
+		</div>
+	{% endfor %}
 </div>
