@@ -214,3 +214,4 @@ Since CC was founded 12 years ago, we've made strides at achieving that goal. An
 
 If you believe that society is healthier when it shares its knowledge and culture openly, we're proud to fight on your side. Please join us as we work together to build a better internet and a better world.
 
+<p style="text-align:center; "><a href="http://donate.creativecommons.org/">Donate to CC</a></p>
