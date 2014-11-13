@@ -29,7 +29,7 @@ The size of the commons
 
 Google kindly provided us with a record of all of the websites in its cache that link to Creative Commons license deeds, which we used to find the estimates in this report. While pages may link to Creative Commons license deeds for reasons other than to license or attribute works under them, we reason that those are vastly outnumbered by pages that indicate a CC license choice without linking to the deed.
 
-We've supplemented Google's data with that of several website that each have over a million CC-licensed works but, for various reasons, aren't reflected in Google's data (see Appendix).
+We've supplemented Google's data with that of several websites that each have over a million CC-licensed works but, for various reasons, aren't reflected in Google's data (see Appendix).
 
 ### A note on process
 
@@ -214,4 +214,4 @@ Since CC was founded 12 years ago, we've made strides at achieving that goal. An
 
 If you believe that society is healthier when it shares its knowledge and culture openly, we're proud to fight on your side. Please join us as we work together to build a better internet and a better world.
 
-<p style="text-align:center; "><a href="http://donate.creativecommons.org/">Donate to CC</a></p>
+<p style="text-align:center; "><a href="https://donate.creativecommons.org/?utm_campaign=2014fund&utm_source=sotc&utm_medium=web">Donate to CC</a></p>
