@@ -1,3 +1,9 @@
+/*
+color palette
+green: #60b349
+blue: #2ea4bf
+*/
+
 a {
     color: #2ea4bf;
 }
@@ -15,6 +21,31 @@ a:hover {
 	color: #2ea4bf;
 	}
 	
+.headerbutton {
+	width: 300px;
+	text-align: center;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	color: #2ea4bf;
+	border-radius: 50px;
+	border:5px solid #2ea4bf;
+	text-decoration: none;
+	}
+
+.headerbutton.white:hover {
+	border: 5px solid white;
+	color: white;
+	text-decoration: none !important;
+	}
+	
+.headerbutton.black:hover {
+	border: 5px solid black;
+	color: black;
+	text-decoration: none !important;
+	}
+
 h1 {
 	color: #60b349;
 	text-align: center;
@@ -54,3 +85,19 @@ h1 {
 	display: table-cell;
 	height: 91px;
 	}  
+
+.pullquote {
+	padding: 10px;
+	margin: 10px;
+	width: 300px;
+	border-radius: 50px;
+	border:5px solid #60b349;
+	}
+	
+.pullquote p {
+	margin: 10px;
+	}
+
+.pullquote img {
+	padding-top: 5px;
+	}
