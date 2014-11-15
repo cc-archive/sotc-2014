@@ -8,6 +8,10 @@ a {
     color: #2ea4bf;
 }
 
+.reportpanel {
+	max-width: 100%;
+	}
+
 hr.sotc {
 	color: #2ea4bf;
 	background-color: #2ea4bf;
@@ -19,6 +23,16 @@ hr.sotc {
 
 a:hover {
 	color: #2ea4bf;
+	}
+	
+.mobileshare {
+	text-align: center;
+	color: #60b349;
+	}
+
+.mobileshare img {
+	padding-top: 5px;
+	padding-bottom: 10px;
 	}
 	
 .headerbutton {
@@ -103,11 +117,11 @@ h1 {
 	}
 
 .sidebar {
-	padding: 20px;
 	}
 
 .sidebar-box {
-	border-radius: 50px;
+	margin-right: 10px;
+	border-radius: 20px;
 	border:5px solid #60b349;
 	padding: 20px;
 	}

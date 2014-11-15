@@ -13,7 +13,7 @@ It's not a new idea. People have been adapting and building upon each other's wo
 
 We believe that that sharing --- sometimes it takes place instantly, sometimes across generations --- is how society grows and culture develops. We also believe that copyright can often get in the way, usually without the copyright-holder's intention. That's why we created the Creative Commons licenses.
 
-{% capture sidebar %}{% include pullquote.html align="right" quote="Millions of creators around the world use CC licenses to give others permission to use their work in ways that they wouldn't be allowed to. Those millions of users are the proof that Creative Commons works." %}{% endcapture %}
+{% capture sidebar %}{% include pullquote.html align="right" quote="Millions of creators around the world use CC licenses to give others permission to use their work in ways that they wouldn't be allowed to. Those millions of users are the proof that Creative Commons works." tweet="Millions of creators around the world share their works openly under Creative Commons licenses." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
 Millions of creators around the world use CC licenses to give others permission to use their work in ways that they wouldn't be allowed to. Those millions of users are the proof that Creative Commons works.
@@ -101,7 +101,7 @@ But the opposite is usually the case. Often, the public has to pay for materials
 
 Take the example of scholarly publishing. Many university researchers receive grants from the federal government to conduct their work. The researcher does their work and then publishes in a commercial journal. That journal then sells access back to universities through subscription fees to those publications. It's clear to see that that's not an efficient --- or just --- use of the public's investments.
 
-{% capture sidebar %}{% include pullquote.html align="left" quote="The best way to ensure that the public is granted the rights they're due is to require that digital resources created with public funds be licensed under open, public copyright licenses." %}{% endcapture %}
+{% capture sidebar %}{% include pullquote.html align="left" quote="The best way to ensure that the public is granted the rights they're due is to require that digital resources created with public funds be licensed under open, public copyright licenses." tweet="Publicly funded resources should be openly licensed resources." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
 We think that the best way to ensure that the public is granted the rights they're due is to require that digital resources created with public funds be licensed under open, public copyright licenses, like Creative Commons licenses. We believe that open policies should require, as a default, licenses compliant with the Open Definition, with a preference for open licenses that at most require attribution to the author (such as CC BY) for publicly funded content and no rights reserved (such as CC0) for publicly funded data.
@@ -144,7 +144,7 @@ As people recognize the value of sharing in their lives, they also begin to reco
 
 ### Copyright law should not be written in secret
 
-{% capture sidebar %}{% include pullquote.html align="right" quote="Whenever the scope, duration, or limitations of copyright law are under discussion, lawmakers should think carefully about how those decisions impact the public's right to information, knowledge, and culture." %}{% endcapture %}
+{% capture sidebar %}{% include pullquote.html align="right" quote="Whenever the scope, duration, or limitations of copyright law are under discussion, lawmakers should think carefully about how those decisions impact the public's right to information, knowledge, and culture." tweet="Copyright law should not be written in secret." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
 Creative Commons believes that whenever the scope, duration, or limitations of copyright law are under discussion, lawmakers should think carefully about how those decisions impact the public's right to information, knowledge, and culture. Unfortunately, sometimes those decisions are made in secret negotiations, where the public can't watch and participate in them.

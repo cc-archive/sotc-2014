@@ -7,19 +7,21 @@ permalink: /
 <a href="/report/"><div class="headerbutton white"><span>Read the full report</span></div></a>
 <div class="container-fluid">
 	{% for panel in site.data.panels %}
+		{% capture tweet %}http://twitter.com/intent/tweet?source=webclient&amp;text={{ panel.tweet | | replace:' ','%20' }}+stateof.creativecommons.org/%23{{ panel.anchor }}&via=creativecommons{% endcapture %}
+		{% capture facebook %}https://www.facebook.com/sharer/sharer.php?u=http://stateof.creativecommons.org/%23{{ panel.anchor }}{% endcapture %}
 		<div class="row">
 			<div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
 			<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8" id="{{ panel.anchor }}">
 				<div class="report" style="max-width: 100%; ">
-					<img src="{{ panel.img }}" style="max-width: 100%; ">
-					<div class="hidden-md hidden-lg" style="text-align: center; color: #60b349; ">share<br /><img src="/img/facebook-green-small.png" style="padding-top:5px; "> <img src="/img/twitter-green-small.png" style="padding-top:5px; "></div>
+					<img src="{{ panel.img }}" class="reportpanel">
+					<div class="hidden-md hidden-lg mobileshare"><strong>share</strong><br /><a href="{{ facebook }}" target="_blank"><img src="/img/facebook-green-small.png"></a> <a href="{{ tweet }}" target="_blank"><img src="/img/twitter-green-small.png"></a></div>
 				</div>
 			</div>
 
 			<div class="hidden-xs hidden-sm col-md-3 col-lg-3 sidebar">
 				<div class="sidebar-box">
 					<p>{{ panel.tweet }}</p>
-					<p><img src="/img/facebook-green-small.png"> <img src="/img/twitter-green-small.png"></p>
+					<p><a href="{{ facebook }}" target="_blank"><img src="/img/facebook-green-small.png"></a> <a href="{{ tweet }}" target="_blank"><img src="/img/twitter-green-small.png"></a></p>
 				</div>
 			</div>
 
