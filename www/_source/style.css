@@ -52,7 +52,7 @@ h1 {
 	padding: 10px;
 	}
 
-#report {
+.report {
 	background-color: white;
 	}
 	
@@ -101,3 +101,18 @@ h1 {
 .pullquote img {
 	padding-top: 5px;
 	}
+
+.sidebar {
+	padding: 20px;
+	}
+
+.sidebar-box {
+	border-radius: 50px;
+	border:5px solid #60b349;
+	padding: 20px;
+	}
+
+.sidebar-box img {
+	padding-top: 5px;
+	}
+

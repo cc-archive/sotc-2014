@@ -1,21 +1,41 @@
 - order: 1
   img: /img/sotc1.png
+  anchor: intro
+  tweet: |
+    Creative Commons licenses have changed the way the internet works.
 
 - order: 2
   img: /img/sotc2.png
+  anchor: numberofworks
+  tweet: |
+    There are over 882 million Creative Commons-licensed works on the internet.
 
 - order: 3
   img: /img/sotc3.png
+  anchor: licenses
+  tweet: |
+    Creative Commons licensors choose more open licenses today than they did four years ago.
 
 - order: 4
   img: /img/sotc4.png
+  anchor: map
+  tweet: |
+    There are active Creative Commons communities on every continent.
 
 - order: 5
   img: /img/sotc5.png
+  anchor: websites
+  tweet: |
+    Over 9 million websites use Creative Commons licenses.
 
 - order: 6
   img: /img/sotc6.png
+  anchor: oerpolicies
+  tweet: |
+    15 countries have adopted national open education policies.
 
 - order: 7
   img: /img/sotc7.png
-
+  anchor: oersavings
+  tweet: |
+    Open educational resources have saved students 100 million dollars.
