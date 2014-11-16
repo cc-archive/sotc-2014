@@ -10,7 +10,8 @@
 </head>
 <body>	
 <h1>The State of the Commons</h1>
-<a href="/"><div class="headerbutton black"><span>Back to the infographic</span></div></a>
+<a href="/" style="text-decoration: none;" ><div class="headerbutton black">Back to the infographic</div></a>
+	{% include socialbuttons.html %}
 <div class="container" style="max-width: 800px; ">
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -18,8 +19,10 @@
 			</div>
 		</div>
 	</div>
+<div class="container-fluid">
+	{% include footer.html border="black" %}
+</div>
 <br />
-	{% include license.html %}
 </body>
 </html>
 

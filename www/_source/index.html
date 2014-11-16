@@ -4,7 +4,8 @@ title: The State of the Commons
 permalink: /
 ---
 <h1>The State of the Commons</h1>
-<a href="/report/"><div class="headerbutton white"><span>Read the full report</span></div></a>
+<a href="/report/" style="text-decoration: none; "><div class="headerbutton white">Read the full report</div></a>
+	{% include socialbuttons.html %}
 <div class="container-fluid">
 	{% for panel in site.data.panels %}
 		{% capture tweet %}http://twitter.com/intent/tweet?source=webclient&amp;text={{ panel.tweet | | replace:' ','%20' }}+stateof.creativecommons.org/%23{{ panel.anchor }}&via=creativecommons{% endcapture %}
@@ -27,4 +28,5 @@ permalink: /
 
 		</div>
 	{% endfor %}
+	{% include footer.html border="white" %}
 </div>
