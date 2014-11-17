@@ -65,9 +65,11 @@ We created the geographical breakdown of licensors' locations using the web stat
 
 That said, these numbers are still likely weighted toward the United States and other English-speaking countries.
 
-The map below shows our data country by country, reflecting countries in every region with strong communities of Creative Commons licensors and advocates.
+<p class="hidden-xs">The map below shows our data country by country, reflecting countries in every region with strong communities of Creative Commons licensors and advocates.</p>
 
-<iframe width="600" height="450" src="http://www.openheatmap.com/embed.html?map=AlkoranicCrinkSaruses" ></iframe>
+<iframe width="600" height="450" src="http://www.openheatmap.com/embed.html?map=AlkoranicCrinkSaruses" class="hidden-xs" style="margin-left: auto; margin-right: auto; display: block; "></iframe>
+
+<p class="hidden-sm hidden-md hidden-lg"><a href="http://www.openheatmap.com/view.html?map=AlkoranicCrinkSaruses">This map</a> shows our data country by country, reflecting countries in every region with strong communities of Creative Commons licensors and advocates.</p>
 
 <hr class="sotc" />
 
