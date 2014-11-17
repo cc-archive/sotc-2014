@@ -1,3 +1,9 @@
-<div class="pullquote" style="float:{{ include.align }}; ">
-<p>{{ include.quote }}</p>
+<div class="pullquote hidden-xs hidden-sm" style="float:{{ include.align }}; ">
+<p><strong><em>{{ include.quote }}</em></strong></p>
 <p><a href="https://www.facebook.com/sharer/sharer.php?u=http://stateof.creativecommons.org/report/" target="_blank"><img src="/img/facebook-green-small.png"></a> <a href="http://twitter.com/intent/tweet?source=webclient&amp;text={{ include.tweet | | replace:' ','%20' }}+stateof.creativecommons.org%2Freport%2F&via=creativecommons" target="_blank"><img src="/img/twitter-green-small.png"></a></p></div>
+<div class="pullquote-mobile hidden-md hidden-lg">
+	<div style="max-width: 450px; display:block; margin-left: auto; margin-right: auto; ">
+		<p><strong><em>{{ include.quote }}</em></strong></p>
+		<p style="text-align: center; "><a href="https://www.facebook.com/sharer/sharer.php?u=http://stateof.creativecommons.org/report/" target="_blank"><img src="/img/facebook-green-small.png"></a> <a href="http://twitter.com/intent/tweet?source=webclient&amp;text={{ include.tweet | | replace:' ','%20' }}+stateof.creativecommons.org%2Freport%2F&via=creativecommons" target="_blank"><img src="/img/twitter-green-small.png"></a></p>
+	</div>
+</div>

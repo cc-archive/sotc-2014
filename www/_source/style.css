@@ -30,10 +30,6 @@ hr.sotc {
 	margin-right: auto;
 	}
 
-#donatepitch {
-	}
-	
-
 a:hover {
 	color: #2ea4bf;
 	}
@@ -149,8 +145,9 @@ h1 {
 	padding: 10px;
 	margin: 10px;
 	width: 300px;
-	border-radius: 50px;
+	border-radius: 20px;
 	border:5px solid #60b349;
+	background-color: #D8D8D8;
 	}
 	
 .pullquote p {
@@ -161,7 +158,14 @@ h1 {
 	padding-top: 5px;
 	}
 
-.sidebar {
+.pullquote-mobile {
+	width: 100%;
+	padding: 10px;
+	background-color: #D8D8D8;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top: 5px solid #60b349;
+	border-bottom: 5px solid #60b349;
 	}
 
 .sidebar-box {
@@ -169,6 +173,7 @@ h1 {
 	border-radius: 20px;
 	border:5px solid #60b349;
 	padding: 20px;
+	background-color: #383838;
 	}
 
 .sidebar-box img {
