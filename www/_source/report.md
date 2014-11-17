@@ -4,10 +4,7 @@ title: The State of the Commons
 permalink: /report/
 ---
 
-Introduction
-----------------
-
-At its heart, Creative Commons is a simple idea. It's the idea that when people share their creations with each other, amazing things can happen.
+<p class="lead">At its heart, Creative Commons is a simple idea. It&#8217;s the idea that when people share their creations with each other, amazing things can happen.</p>
 
 It's not a new idea. People have been adapting and building upon each other's work for centuries. Musicians sample beats from each other's music. Artists create collages from other people's images. Teachers borrow each other's activities and lesson plans. Scientists build off of each other's results to make new discoveries.
 
