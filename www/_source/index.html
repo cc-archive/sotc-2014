@@ -15,6 +15,7 @@ permalink: /
 			<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8" id="{{ panel.anchor }}">
 				<div class="report" style="max-width: 100%; ">
 					<img src="{{ panel.img }}" class="reportpanel">
+					{% if panel.text %}<div class="reportintrotext">{{panel.text}}</div>{% endif %}
 					<div class="hidden-md hidden-lg mobileshare"><strong>share</strong><br /><a href="{{ facebook }}" target="_blank"><img src="/img/facebook-green-small.png"></a> <a href="{{ tweet }}" target="_blank"><img src="/img/twitter-green-small.png"></a></div>
 				</div>
 			</div>

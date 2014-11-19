@@ -21,6 +21,15 @@ a {
 	max-width: 100%;
 	}
 
+.reportintrotext {
+    color: black !important;
+    padding: 1em;
+    letter-spacing: 1px;
+    text-align: center;
+    font-size: 19px;
+    max-width: 900px;
+}
+
 hr.sotc {
 	color: #2ea4bf;
 	background-color: #2ea4bf;
