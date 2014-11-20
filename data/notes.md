@@ -14,7 +14,7 @@ Those platforms are as follows:
 |**Platform name**|**Number of works** (rounded down by millions)|source|
 |---|---|---|---|---|
 |Flickr|307 million|https://www.flickr.com/creativecommons/|
-|Wikipedia (all articles in all languages)|111 million|http://meta.wikimedia.org/wiki/List_of_Wikipedias|
+|Wikipedia (all pages in all languages)|111 million|http://meta.wikimedia.org/wiki/List_of_Wikipedias|
 |Scribd|50 million|Source at Scribd|
 |MusicBrainz|39 million|https://musicbrainz.org/statistics|
 |Freebase|39 million|https://developers.google.com/freebase/faq#how_big_is_freebase|
