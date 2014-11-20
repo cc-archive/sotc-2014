@@ -82,7 +82,7 @@ That said, people who use the chooser represent only a fraction of all CC licens
 
 <!-- <iframe width="600" height="450" src="http://www.openheatmap.com/embed.html?map=AlkoranicCrinkSaruses" class="hidden-xs" style="margin-left: auto; margin-right: auto; display: block; "></iframe> -->
 
-<p><a href="http://www.openheatmap.com/view.html?map=AlkoranicCrinkSaruses"><img src="/img/openheatmap.png" alt="" width="600" height="367" /></a></p>
+<p class="text-center"><a href="http://www.openheatmap.com/view.html?map=AlkoranicCrinkSaruses"><img src="/img/openheatmap.png" alt="" width="600" height="367" /></a></p>
 
 <p><small>This map shows our data country by country, reflecting countries in every region with strong communities of Creative Commons licensors and advocates.</small></p>
 
