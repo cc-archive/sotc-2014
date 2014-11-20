@@ -63,9 +63,11 @@ Thanks to the following organizations, companies, and individuals for their cont
 
 * deviantART: Josh Wattles
 * Google: Henry Lien, Matt McLernon, Fred Von Lohmann
-* Microsoft: Tom Rubin
+* Microsoft
+* Tom Rubin
 * Scribd: Jared Friedman
 * SPARC: Nicole Allen
+* [Everyone who donates to Creative Commons](https://creativecommons.org/supporters)
 
 
 CC0
