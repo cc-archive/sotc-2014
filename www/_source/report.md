@@ -117,7 +117,7 @@ When open licenses become a requirement on publicly funded resources, they have 
 
 All too often, the opposite is the case. When the public can't access and use the materials it paid for, the impact those materials have is limited.
 
-We think that the best way to ensure public funds create the greatest public good is to require that digital resources created with public funds be licensed under open, public licenses. We believe that open policies should require, as a default, [free culture licenses](http://creativecommons.org/freeworks), with a preference for [CC BY](https://creativecommons.org/licenses/by/4.0/)) for publicly-funded content and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for publicly funded data.
+We think that the best way to ensure public funds create the greatest public good is to require that digital resources created with public funds be licensed under open, public licenses. We believe that open policies should require, as a default, [free culture licenses](http://creativecommons.org/freeworks), with a preference for [CC BY](https://creativecommons.org/licenses/by/4.0/) for publicly-funded content and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for publicly funded data.
 
 In the past year, we've seen some great examples of governments and public institutions giving the public permission to use their works. We're entering a new era of open policy.
 
@@ -141,7 +141,7 @@ In practice, the new policy means that nearly all of the extensive content produ
 
 ### UNESCO removes barriers to sharing
 
-In 2013, [UNESCO adopted an open access policy](https://creativecommons.org/weblog/entry/41265), requiring that UNESCO publications be licensed under the Creative Commons Attribution Share-Alike 3.0 IGO license. The BY-SA license means that users who make adaptations of content released under it must share their resulting creations under the same license.
+In 2013, [UNESCO adopted an open access policy](https://creativecommons.org/weblog/entry/41265), requiring that UNESCO publications be licensed under the Creative Commons Attribution ShareAlike 3.0 IGO license. The BY-SA license means that users who make adaptations of content released under it must share their resulting creations under the same license.
 
 According to UNESCO's Abel Caine, allowing anyone to reuse UNESCO publications has allowed that research to disseminate much more quickly: “We need to get them comfortable with the idea that there's nothing to sign. Run with it!”
 
@@ -175,7 +175,7 @@ What's great about having a single set of open content licenses is that users ca
 
 This year, the International Association of Scientific, Technical, & Medical Publishers launched a new set of open access licenses. When we learned of the licenses, [we joined a coalition of 57 organizations](https://creativecommons.org/weblog/entry/43450) recommending that STM members continue to use CC licenses instead.
 
-[PLOS' Cameron Neylon articulates why sector-specific licenses are an unwieldy path](http://blogs.plos.org/opens/2014/08/08/wikimania-need-choose-main-stream-small-pool/): "...Don't get me wrong --- scholarly knowledge *is* special. It is special because of the validation and assessment processes it goes though. But the containers it sits in. They're not special. ... The ways in which that knowledge could be used by a motivated community aren't any different from that of other knowledge resources. And if we don't make it easy to use our content then it will simply be passed over for other more accessible, more easily useable materials."
+[PLOS' Cameron Neylon articulates why sector-specific licenses are an unwieldy path](http://blogs.plos.org/opens/2014/08/08/wikimania-need-choose-main-stream-small-pool/): "...Don't get me wrong --- scholarly knowledge *is* special. It is special because of the validation and assessment processes it goes though. But the containers it sits in. They're not special. ... The ways in which that knowledge could be used by a motivated community aren't any different from that of other knowledge resources. And if we don't make it easy to use our content then it will simply be passed over for other more accessible, more easily usable materials."
 
 
 ### Sharing should be easier
