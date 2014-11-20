@@ -10,7 +10,7 @@ It's not a new idea. People have been adapting and building on each other's work
 
 We believe that sharing --- sometimes it happens in an instant, sometimes it spreads across generations --- is how society grows, how culture develops, and how innovation happens. We also believe that copyright can often get in the way, usually without the copyright-holder's intention. That's why we created the [Creative Commons licenses](https://creativecommons.org/licenses/).
 
-{% capture sidebar %}{% include pullquote.html align="right" quote="Millions of creators around the world use CC licenses to give others permission to use their work in ways that they wouldn't otherwise be allowed to. Those millions of users are the proof that Creative Commons works." tweet="Millions of creators around the world share their works openly under Creative Commons licenses." %}{% endcapture %}
+{% capture sidebar %}{% include pullquote.html align="right" quote="Millions of creators around the world use CC licenses to give others permission to use their work in ways that they wouldn't otherwise be allowed to. Those millions of users are the proof that Creative Commons works." tweet="Millions of creators share their works openly under Creative Commons licenses." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
 Millions of creators around the world use CC licenses to give others permission to use their work in ways that they wouldn't otherwise be allowed to. Those millions of users are the proof that Creative Commons works.
@@ -198,7 +198,7 @@ Where Creative Commons is going
 
 ### New technologies for sharing
 
-{% capture sidebar %}{% include pullquote.html align="right" quote="Creative Commons&#8217; three key priorities: a vibrant commons, a usable commons, a relevant commons." tweet="Creative Commons&#8217; three key priorities: a vibrant commons, a usable commons, a relevant commons." %}{% endcapture %}
+{% capture sidebar %}{% include pullquote.html align="right" quote="Creative Commons&#8217; three key priorities: a vibrant commons, a usable commons, a relevant commons." tweet="CC&#8217;s three key priorities: a vibrant commons, a usable commons, a relevant commons." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
 One project we're really excited about is [The List, supported by a prototype grant from the Knight Foundation](http://creativecommons.org/weblog/entry/44004). The List app will allow users to make lists of wanted images, or submit requested photos to a global archive of images, all licensed CC BY. We're also working on improving the CC Search page, to make it easier for users to find and attribute content. 
