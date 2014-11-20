@@ -17,7 +17,7 @@ Millions of creators around the world use CC licenses to give others permission 
 
 But measuring the size of the commons has always been a challenge. There's no sign-up to use a CC license, and no central repository or catalog of CC-licensed works. So it's impossible to say precisely how many licensed works there are, how many people are using Creative Commons licenses, where those people are located, or how they're using them.
 
-With this report, we're taking a big step toward better measuring the size of the commons. We're also sharing all of the data and methodologies that we used to find these numbers, and making a commitment to hone and update these findings in the months and years to come. We're also telling the stories of events from 2014 that have impacted the size, usability, and relevance of the commons.
+With this report, we're taking a big step toward better measuring the size of the commons. [We're also sharing all of the data and methodologies that we used to find these numbers](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md), and making a commitment to hone and update these findings in the months and years to come. We're also telling the stories of events from 2014 that have impacted the size, usability, and relevance of the commons.
 
 <hr class="sotc" />
 
@@ -31,7 +31,7 @@ The size of the commons
 
 How did we arrive at these numbers? Google provided us with the raw data, counting all of the websites in its cache that link to Creative Commons license deeds, which we used to make the estimates in this report. While pages may link to Creative Commons license deeds for reasons other than to license or attribute works under them, we reason that those are vastly outnumbered by pages that indicate a CC license choice without linking to the deed.
 
-We've supplemented Google's data with that of several websites that each have over a million CC-licensed works but, for various reasons, aren't reflected in Google's data (see Appendix).
+We've supplemented Google's data with that of several websites that each have over a million CC-licensed works but aren't reflected in Google's data ([see notes](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md)).
 
 Even if we had access to unlimited data about how and where CC licenses are used, it would still be very difficult to establish a single number for all Creative Commons--licensed works. Where do we draw the line between one work and another? Every time a piece of content is reused on the internet, should it be counted again?
 
