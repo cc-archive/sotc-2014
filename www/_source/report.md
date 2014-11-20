@@ -33,6 +33,11 @@ How did we arrive at these numbers? Google provided us with the raw data, counti
 
 We've supplemented Google's data with that of several websites that each have over a million CC-licensed works but aren't reflected in Google's data ([see notes](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md)).
 
+{% capture sidebar %}{% include pullquote.html align="left" quote="CC license badges are accessed 27 million times in a single day." tweet="CC license badges are accessed 27 million times in a single day." %}{% endcapture %}
+{{ sidebar | markdownify }}
+
+We're also able to track usage data for the CC license badges. We found over 27 million license badges served in a single day. That's even more amazing when you consider that that's just a subset of all CC-licensed content: it covers only sites that hotlink our badges directly.
+
 Even if we had access to unlimited data about how and where CC licenses are used, it would still be very difficult to establish a single number for all Creative Commons--licensed works. Where do we draw the line between one work and another? Every time a piece of content is reused on the internet, should it be counted again?
 
 That said, by drawing these estimates as precisely as we can, we're creating a baseline that can be useful for comparison over time.
@@ -79,12 +84,14 @@ That said, people who use the chooser represent only a fraction of all CC licens
 
 <p class="hidden-sm hidden-md hidden-lg"><a href="http://www.openheatmap.com/view.html?map=AlkoranicCrinkSaruses">This map</a> shows our data country by country, reflecting countries in every region with strong communities of Creative Commons licensors and advocates.</p>
 
+Countries marked as "0%" on this map each represent less than 1% of the traffic, but many of them are still notable hotspots, when you consider population and internet proliferation ([see our complete data](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md)).
+
 <hr class="sotc" />
 
 4.0: A global license for a global movement
 ----------------
 
-{% capture sidebar %}{% include pullquote.html align="right" quote="In CC general counsel Diane Peters&#8217; words, &#8220;These improvements may go unnoticed by many CC users, but that doesn&#8217;t mean they aren&#8217;t important. We worry about the slight nuances of the law so our users don’t have to.&#8221;" tweet="Creative Commons&#8217; 4.0 licenses reflect the needs of a growing and changing user base." %}{% endcapture %}
+{% capture sidebar %}{% include pullquote.html align="right" quote="The Creative Commons 4.0 licenses reflect the needs of a truly global user community." tweet="The Creative Commons 4.0 licenses reflect the needs of a truly global user community." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
 <p class="lead">On November 25, 2013, <a href="http://creativecommons.org/version4">Version 4.0 of the Creative Commons licenses ushered in a new era for Creative Commons</a>. The new licenses say a lot about how far Creative Commons has come in the past ten years, and where we're going.</p>
@@ -92,8 +99,6 @@ That said, people who use the chooser represent only a fraction of all CC licens
 Version 4.0 was rebuilt from the ground up in a 2-year process with an international user base in mind, eliminating the need to create custom versions for each jurisdiction. But that would not have been possible if our affiliate network hadn't spent the past seven years working to adapt the version 3.0 licenses to the laws of more than 35 countries. All of the lessons we've learned through the porting process are incorporated into 4.0. The result is a set of licenses that just work. Everywhere.
 
 The licenses don't just reflect an increasingly global organization and community; they also reflect the new ways in which people have been using CC licenses. The new licenses include provisions related to database rights, personality rights, data mining, and other issues beyond the scope of the original CC licenses. We improved the licenses to catch up with how you’ve been using them. They have already been endorsed by the European Commission for use by public sector institutions, and the White House for federal government datasets.
-
-In CC general counsel Diane Peters' words, "These improvements may go unnoticed by many CC users, but that doesn't mean they aren’t important. We worry about the slight nuances of the law so our users don’t have to."
 
 <hr class="sotc" />
 
