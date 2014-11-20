@@ -42,5 +42,19 @@ permalink: /
 
 		</div>
 	{% endfor %}
+		<div class="row">
+			<div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
+			<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+				<h2>Download this infographic</h2>
+				<p>
+					{% for language in site.data.languages %}
+						{{ language.lang | upcase }} (<a href="{{ language.pdf }}">PDF</a> / <a href="{{ language.svg }}">SVG</a>)
+					{% endfor %}
+				</p>
+			</div>
+			<div class="hidden-xs hidden-sm col-md-3 col-lg-3 sidebar"></div>
+		</div>
+
+
 	{% include footer.html border="white" %}
 </div>

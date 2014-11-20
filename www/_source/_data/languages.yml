@@ -1,0 +1,28 @@
+- lang: en
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC.svg
+    
+- lang: cs
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Czech.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Czech.svg
+  
+- lang: da
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Danish.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Danish.svg
+
+- lang: fi
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Finnish.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Finnish.svg
+
+- lang: nl
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Dutch.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Dutch.svg
+
+- lang: pt
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Portuguese.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Portuguese.svg
+
+
+
+  
+
