@@ -66,3 +66,9 @@ Thanks to the following organizations, companies, and individuals for their cont
 * Microsoft: Tom Rubin
 * Scribd: Jared Friedman
 * SPARC: Nicole Allen
+
+
+CC0
+----------------------------
+
+[To the extent possible under law, Creative Commons has waived all copyright and related or neighboring rights to this data.](http://creativecommons.org/publicdomain/zero/1.0/)
