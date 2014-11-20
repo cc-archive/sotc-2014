@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: The State of the Commons
+title: State of the Commons
 permalink: /numberofworks/
 anchor: numberofworks
 fbog-image: /img/facebook-sotc2.png

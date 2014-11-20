@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: The State of the Commons
+title: State of the Commons
 permalink: /oerpolicies/
 anchor: oerpolicies
 fbog-image: /img/facebook-sotc6.png

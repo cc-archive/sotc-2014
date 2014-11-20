@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: The State of the Commons
+title: State of the Commons
 permalink: /licenses/
 anchor: licenses
 fbog-image: /img/facebook-sotc3.png
