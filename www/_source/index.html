@@ -21,8 +21,8 @@ permalink: /
 
 <div class="container-fluid">
 	{% for panel in site.data.panels %}
-		{% capture tweet %}http://twitter.com/intent/tweet?source=webclient&amp;text={{ panel.tweet | | replace:' ','%20' }}+stateof.creativecommons.org/{{ panel.anchor }}+%23stateofcc&via=creativecommons{% endcapture %}
-		{% capture facebook %}https://www.facebook.com/sharer/sharer.php?u=http://stateof.creativecommons.org/{{ panel.anchor }}{% endcapture %}
+		{% capture tweet %}https://twitter.com/intent/tweet?source=webclient&amp;text={{ panel.tweet | | replace:' ','%20' }}+stateof.creativecommons.org/{{ panel.anchor }}+%23stateofcc&via=creativecommons{% endcapture %}
+		{% capture facebook %}https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/{{ panel.anchor }}{% endcapture %}
 		<div class="row">
 			<div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
 			<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8" id="{{ panel.anchor }}">
@@ -48,7 +48,7 @@ permalink: /
 				<h2>Download this infographic</h2>
 				<p>
 					{% for language in site.data.languages %}
-						{{ language.lang | upcase }} (<a href="{{ language.pdf }}">PDF</a> / <a href="{{ language.svg }}">SVG</a>)
+						{{ language.lang | upcase }} (<a href="{{ language.pdf }}" download>PDF</a> / <a href="{{ language.svg }}" download>SVG</a>)
 					{% endfor %}
 				</p>
 				<p><a href="http://lemonly.com/">Infographic created by Lemonly</a>.</p>
