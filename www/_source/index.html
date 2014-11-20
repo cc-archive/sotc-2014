@@ -48,7 +48,7 @@ permalink: /
 				<h2>Download this infographic</h2>
 				<p>
 					{% for language in site.data.languages %}
-						{{ language.lang | upcase }} (<a href="{{ language.pdf }}">PDF</a> / <a href="{{ language.svg }}">SVG</a>)
+						{{ language.lang | upcase }} (<a href="{{ language.pdf }}" download>PDF</a> / <a href="{{ language.svg }}" download>SVG</a>)
 					{% endfor %}
 				</p>
 			</div>
