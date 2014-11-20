@@ -78,13 +78,9 @@ We created the geographical breakdown of licensors' locations using the web stat
 
 That said, people who use the chooser represent only a fraction of all CC licensors. Since creativecommons.org is more popular in English-speaking countries than in non-English-speaking countries, these numbers are weighted toward the United States and other English-speaking countries.
 
-<p class="hidden-xs">The map below shows our data country by country, reflecting countries in every region with strong communities of Creative Commons licensors and advocates.</p>
+The map below shows our data country by country, reflecting countries in every region with strong communities of Creative Commons licensors and advocates ([click for interactive version](http://www.openheatmap.com/view.html?map=AlkoranicCrinkSaruses)).
 
-<!-- <iframe width="600" height="450" src="http://www.openheatmap.com/embed.html?map=AlkoranicCrinkSaruses" class="hidden-xs" style="margin-left: auto; margin-right: auto; display: block; "></iframe> -->
-
-<p class="text-center"><a href="http://www.openheatmap.com/view.html?map=AlkoranicCrinkSaruses"><img src="/img/openheatmap.png" alt="" width="600" height="367" /></a></p>
-
-<p><small>This map shows our data country by country, reflecting countries in every region with strong communities of Creative Commons licensors and advocates.</small></p>
+<a href="http://www.openheatmap.com/view.html?map=AlkoranicCrinkSaruses"><img src="/img/openheatmap.png" alt="" class="img-responsive" style="margin-left: auto; margin-right: auto; "/></a>
 
 Countries marked as "0%" on this map each represent less than 1% of the traffic, but many of them are still notable hotspots, when you consider population and internet proliferation ([see our complete data](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md)).
 
