@@ -4,36 +4,36 @@ title: The State of the Commons
 permalink: /report/
 ---
 
-<p class="lead">At its heart, Creative Commons is a simple idea. It&#8217;s the idea that when people share their creations with each other, amazing things can happen.</p>
+<p class="lead">At its heart, Creative Commons is a simple idea. It&#8217;s the idea that when people share their creativity and knowledge with each other, amazing things can happen.</p>
 
-It's not a new idea. People have been adapting and building upon each other's work for centuries. Musicians sample beats from each other's music. Artists create collages from other people's images. Teachers borrow each other's activities and lesson plans. Scientists build off of each other's results to make new discoveries.
+It's not a new idea. People have been adapting and building on each other's work for centuries. Musicians sample beats from each other's music. Artists create entirely new works from other people's images. Teachers borrow each other's activities and lesson plans. Scientists build off of each other's results to make new discoveries.
 
-We believe that sharing --- sometimes it happens in an instant, sometimes it spreads across generations --- is how society grows and culture develops. We also believe that copyright can often get in the way, usually without the copyright-holder's intention. That's why we created the [Creative Commons licenses](https://creativecommons.org/licenses/).
+We believe that sharing --- sometimes it happens in an instant, sometimes it spreads across generations --- is how society grows, how culture develops, and how innovation happens. We also believe that copyright can often get in the way, usually without the copyright-holder's intention. That's why we created the [Creative Commons licenses](https://creativecommons.org/licenses/).
 
 {% capture sidebar %}{% include pullquote.html align="right" quote="Millions of creators around the world use CC licenses to give others permission to use their work in ways that they wouldn't otherwise be allowed to. Those millions of users are the proof that Creative Commons works." tweet="Millions of creators around the world share their works openly under Creative Commons licenses." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
 Millions of creators around the world use CC licenses to give others permission to use their work in ways that they wouldn't otherwise be allowed to. Those millions of users are the proof that Creative Commons works.
 
-But measuring the size of the commons has always been a bit of a challenge. There's no sign-up to use a CC license, no central repository of CC-licensed works. Therefore, it's impossible to say exactly how many people are using Creative Commons licenses, where those people are located, or how they're using them.
+But measuring the size of the commons has always been a challenge. There's no sign-up to use a CC license, and no central repository or catalog of CC-licensed works. So it's impossible to say precisely how many licensed works there are, how many people are using Creative Commons licenses, where those people are located, or how they're using them.
 
-With this report, we're taking a step toward better measuring the size of the commons. We're sharing all of the data and methodologies that we used to find these numbers and making a commitment to hone and update these findings in the months and years to come. We're also telling the stories of events from 2014 that have impacted the size, usability, and relevance of the commons.
+With this report, we're taking a big step toward better measuring the size of the commons. We're also sharing all of the data and methodologies that we used to find these numbers, and making a commitment to hone and update these findings in the months and years to come. We're also telling the stories of events from 2014 that have impacted the size, usability, and relevance of the commons.
 
 <hr class="sotc" />
 
 The size of the commons
 ----------------
 
-<p class="lead">Sharing won. In 2015, we&#8217;ll reach one billion Creative Commons&#8211;licensed works.</p>
+<p class="lead">Sharing is winning. In 2015, we&#8217;ll pass one billion Creative Commons&#8211;licensed works.</p>
 
-{% capture sidebar %}{% include pullquote.html align="right" quote="Sharing won. In 2015, we&#8217;ll reach one billion Creative Commons&#8211;licensed works." tweet="Sharing won. In 2015, we&#8217;ll reach one billion Creative Commons&#8211;licensed works." %}{% endcapture %}
+{% capture sidebar %}{% include pullquote.html align="right" quote="Sharing is winning. In 2015, we&#8217;ll pass one billion Creative Commons&#8211;licensed works." tweet="Sharing is winning. In 2015, we&#8217;ll pass one billion Creative Commons&#8211;licensed works." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
-How did we arrive at these numbers? Google provided us with a record of all of the websites in its cache that link to Creative Commons license deeds, which we used to find the estimates in this report. While pages may link to Creative Commons license deeds for reasons other than to license or attribute works under them, we reason that those are vastly outnumbered by pages that indicate a CC license choice without linking to the deed.
+How did we arrive at these numbers? Google provided us with the raw data, counting all of the websites in its cache that link to Creative Commons license deeds, which we used to make the estimates in this report. While pages may link to Creative Commons license deeds for reasons other than to license or attribute works under them, we reason that those are vastly outnumbered by pages that indicate a CC license choice without linking to the deed.
 
 We've supplemented Google's data with that of several websites that each have over a million CC-licensed works but, for various reasons, aren't reflected in Google's data (see Appendix).
 
-Even if we had access to unlimited data about how and where CC licenses are used, it would still be very difficult to cite a single number for all Creative Commons--licensed works. Where is the line drawn between one work and another? Every time a piece of content is reused on the internet, should it be counted again?
+Even if we had access to unlimited data about how and where CC licenses are used, it would still be very difficult to establish a single number for all Creative Commons--licensed works. Where do we draw the line between one work and another? Every time a piece of content is reused on the internet, should it be counted again?
 
 That said, by drawing these estimates as precisely as we can, we're creating a baseline that can be useful for comparison over time.
 
@@ -45,7 +45,7 @@ Today, there are over 882 million pieces of CC-licensed (or [CC0](https://creati
 
 <img src="/img/sotc3.png" style="max-width: 100%; " />
 
-In 2010, about 40% of CC-licensed works were under free culture licenses. The increase since then reflects the growing diversity in how and where CC licenses are used; we think it also speaks to a license user base that's discovered the value and power in sharing work more openly.
+In 2010, about 40% of CC-licensed works were under free culture licenses. The increase since then reflects the growing diversity in how and where CC licenses are used; we think it also speaks to a license user base that's discovered the value and power in sharing work more openly, including national governments and major foundations.
 
 It's also striking to note that a full 76% of works counted allow adaptations, and 58% allow commercial use.
 
@@ -89,9 +89,9 @@ That said, people who use the chooser represent only a fraction of all CC licens
 
 <p class="lead">On November 25, 2013, <a href="http://creativecommons.org/version4">Version 4.0 of the Creative Commons licenses ushered in a new era for Creative Commons</a>. The new licenses say a lot about how far Creative Commons has come in the past ten years, and where we're going.</p>
 
-Version 4.0 was built from the ground up with an international user base in mind, eliminating the need to create custom versions for each jurisdiction. But that would not have been possible if our affiliate network hadn't spent the past seven years working to adapt the version 3.0 licenses to the laws of more than 35 countries. All of the lessons we've learned through the porting process are baked into 4.0. The result is a set of licenses that just work. Everywhere.
+Version 4.0 was rebuilt from the ground up in a 2-year process with an international user base in mind, eliminating the need to create custom versions for each jurisdiction. But that would not have been possible if our affiliate network hadn't spent the past seven years working to adapt the version 3.0 licenses to the laws of more than 35 countries. All of the lessons we've learned through the porting process are incorporated into 4.0. The result is a set of licenses that just work. Everywhere.
 
-The licenses don't just reflect an increasingly global organization and community; they also reflect the new ways in which people have been using CC licenses. The new licenses include provisions related to database rights, personality rights, data mining, and other issues beyond the scope of the original CC licenses. We improved the licenses to catch up with how you’ve been using them.
+The licenses don't just reflect an increasingly global organization and community; they also reflect the new ways in which people have been using CC licenses. The new licenses include provisions related to database rights, personality rights, data mining, and other issues beyond the scope of the original CC licenses. We improved the licenses to catch up with how you’ve been using them. They have already been endorsed by the European Commission for use by public sector institutions, and the White House for federal government datasets.
 
 In CC general counsel Diane Peters' words, "These improvements may go unnoticed by many CC users, but that doesn't mean they aren’t important. We worry about the slight nuances of the law so our users don’t have to."
 
@@ -103,16 +103,16 @@ Open policy goes mainstream
 
 <img src="/img/sotc6.png" style="max-width: 100%; " />
 
-<p class="lead">Something funny happens when people see the effects of open in their lives. <em>They begin to demand it.</em> We start expecting open policies and practices from our governments, our universities, and our employers. Today, people notice when those in power choose closed.</p>
+<p class="lead">When people see the effects of open in their lives, and in their work, <em>they begin to demand it.</em> We start expecting open policies and practices from our governments, our universities, and our employers. Today, people notice when those in power choose closed.</p>
 
 {% capture sidebar %}{% include pullquote.html align="left" quote="The best way to ensure that the public is granted the rights they're due is to require that digital resources created with public funds be licensed under open, public copyright licenses." tweet="Publicly funded resources should be openly licensed resources." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
-When open licenses become a requirement on publicly funded resources, they have the potential to massively increase access to and reuse of a wide range of materials, from educational content like digital textbooks, to the results of scholarly research, to troves of valuable public sector data.
+When open licenses become a requirement on publicly funded resources, they have the potential to massively reduce costs and increase access to use and reuse of a wide range of materials, from educational content like digital textbooks, to the results of scholarly research, to troves of valuable public sector data.
 
 All too often, the opposite is the case. When the public can't access and use the materials it paid for, the impact those materials have is limited.
 
-We think that the best way to ensure that the public is granted the rights it's due is to require that digital resources created with public funds be licensed under open, public licenses. We believe that open policies should require, as a default, [free culture licenses](http://creativecommons.org/freeworks), with a preference for [CC BY](https://creativecommons.org/licenses/by/4.0/)) for publicly-funded content and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for publicly funded data.
+We think that the best way to ensure public funds create the greatest public good is to require that digital resources created with public funds be licensed under open, public licenses. We believe that open policies should require, as a default, [free culture licenses](http://creativecommons.org/freeworks), with a preference for [CC BY](https://creativecommons.org/licenses/by/4.0/)) for publicly-funded content and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for publicly funded data.
 
 In the past year, we've seen some great examples of governments and public institutions giving the public permission to use their works. We're entering a new era of open policy.
 
@@ -120,7 +120,7 @@ In the past year, we've seen some great examples of governments and public insti
 
 One major win for open policy is the Trade Adjustment Assistance Community College and Career Training initiative ([TAACCCT](https://creativecommons.org/tag/taaccct)), run by the US Department of Labor. TAACCCT is a multi-year, two-billion-dollar project to help community colleges equip their students with the skills they need to find employment. This is the largest grant in the world to require that all resources be licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/).
 
-Even more striking is the impact from these publicly funded resources. So far, the colleges have created 1100 programs of study with 80,000 enrollments, 27,000 of whom have already completed credentials leading to jobs in high growth industry sectors. And those programs are in areas where few open resources previously existed.
+Even more striking is the impact from these publicly-funded resources. So far, the colleges have created 1100 programs of study with 80,000 enrollments, 27,000 of whom have already completed credentials leading to jobs in high growth industry sectors. And those programs are in areas where few open resources previously existed.
 
 Creative Commons worked with the Department of Labor in defining TAACCCT's licensing requirements, and we're now working with partner organizations on a new archive to house all of the educational materials funded under TAACCCT.
 
@@ -129,7 +129,7 @@ Creative Commons worked with the Department of Labor in defining TAACCCT's licen
 
 Like governments, philanthropic foundations also fund content with the public good in mind. We think foundations should strongly consider adding open license requirements to their grants. [We applaud the Hewlett Foundation for adopting an open policy](https://creativecommons.org/weblog/entry/43768) and hope to see its peers follow its lead.
 
-The policy is straightforward: it requires that content produced pursuant to a grant be made easily available to the public, on the grantee's website or otherwise, under the CC BY 4.0 license --- unless there is a good reason to use a different license.
+The policy is straightforward: it requires that content produced as part of a grant to be made easily available to the public, on the grantee's website or otherwise, under the CC BY 4.0 license --- unless there is a good reason to use a different license.
 
 In practice, the new policy means that nearly all of the extensive content produced with Hewlett funds –-- not only works specifically commissioned as open educational resources, but scholarly research, multimedia materials, videos, white papers, and more --- will be widely available for downstream re-use with only the condition that the creator is attributed.
 
@@ -155,7 +155,7 @@ As people recognize the value of sharing in their lives, they also begin to reco
 {% capture sidebar %}{% include pullquote.html align="right" quote="Whenever the scope, duration, or limitations of copyright law are under discussion, lawmakers should think carefully about how those decisions impact the public's right to information, knowledge, and culture." tweet="Copyright law should not be written in secret." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
-Creative Commons believes that whenever the scope, duration, or limitations of copyright law are under discussion, lawmakers should think carefully about how those decisions impact the public's right to information, knowledge, and culture. Unfortunately, sometimes those decisions are made in secret negotiations, where the public can't watch and participate in them.
+Creative Commons believes that whenever the scope, duration, or limitations of copyright law are under discussion, lawmakers should think carefully about how those decisions impact the public's right to information, knowledge, and culture. Unfortunately, sometimes those decisions are made in secret negotiations, where the public can't watch and can't participate.
 
 This year, [we've seen disturbing details of the Trans-Pacific Partnership](https://creativecommons.org/weblog/entry/43256), a treaty that, if passed, will extend copyright terms by another 20 years beyond its current, mandatory term.
 
@@ -166,7 +166,7 @@ Increasing the term of copyright protection harms the commons. Any public policy
 
 ### Why interoperability matters
 
-What's great about having a single set of open content licenses is that users can combine and mix together works from disparate sources. This principle is central to how open content works on the internet. When open licenses have extra rules and requirements making them incompatible with each other, both licenses suffer for it.
+What's great about having a single set of open content licenses is that users can combine and mix together works from diverse sources. This principle is central to how open content works on the internet. When open licenses have extra rules and requirements making them incompatible with each other, both licenses suffer for it.
 
 This year, the International Association of Scientific, Technical, & Medical Publishers launched a new set of open access licenses. When we learned of the licenses, [we joined a coalition of 57 organizations](https://creativecommons.org/weblog/entry/43450) recommending that STM members continue to use CC licenses instead.
 
@@ -175,9 +175,9 @@ This year, the International Association of Scientific, Technical, & Medical Pub
 
 ### Sharing should be easier
 
-At last year's Creative Commons Global Summit in Buenos Aires, CC co-founder Lawrence Lessig was asked how he'd like to see the organization change. [His answer was simple](https://creativecommons.org/weblog/entry/42705): "We celebrate the tremendous achievement of Version 4.0 of our Creative Commons licenses. But we are still at Version 2.0 of the technology that we use to deliver those licenses."
+At last year's Creative Commons Global Summit in Buenos Aires, CC co-founder Lawrence Lessig was asked how he'd like to see the organization grow and change. [His answer was simple](https://creativecommons.org/weblog/entry/42705): "We celebrate the tremendous achievement of Version 4.0 of our Creative Commons licenses. But we are still at Version 2.0 of the technology that we use to deliver those licenses."
 
-Although CC license adoption continues to grow, the technology infrastructure must fundamentally change in order to make both CC licenses and CC-licensed materials truly accessible to everyone.
+Although CC license adoption continues to grow, the technology infrastructure must adapt to the changing web in order to make both CC licenses and CC-licensed materials truly accessible to everyone.
 
 <hr class="sotc" />
 
@@ -196,13 +196,13 @@ Where Creative Commons is going
 {% capture sidebar %}{% include pullquote.html align="right" quote="Creative Commons&#8217; three key priorities: a vibrant commons, a usable commons, a relevant commons." tweet="Creative Commons&#8217; three key priorities: a vibrant commons, a usable commons, a relevant commons." %}{% endcapture %}
 {{ sidebar | markdownify }}
 
-One project we're really excited about is [The List, supported by a prototype grant from the Knight Foundation](http://creativecommons.org/weblog/entry/44004). The List app will allow users to make lists of wanted images, or submit requested photos to a global archive of images, all licensed CC BY. We're also working on improving the CC Search page, to make it easier for users to find and attribute content.
+One project we're really excited about is [The List, supported by a prototype grant from the Knight Foundation](http://creativecommons.org/weblog/entry/44004). The List app will allow users to make lists of wanted images, or submit requested photos to a global archive of images, all licensed CC BY. We're also working on improving the CC Search page, to make it easier for users to find and attribute content. 
 
 ### Bringing open policy to the next level
 
 CC is partnering with other open organizations on the [Open Policy Network](http://openpolicynetwork.org/). The OPN's mission is to foster the creation, adoption and implementation of open policies and practices that advance the public good by supporting open policy advocates, organizations, and policy makers; connecting open policy opportunities with assistance; and sharing open policy information.
 
-We're also developing an [Institute for Open Leadership](https://creativecommons.org/weblog/entry/42762) to train new leaders in education, science, and public policy fields on the values and implementation of openness in licensing, policies, and practices. By training new leaders, connecting them to each other, and helping them complete their first capstone open project in their institution, we will prepare them to guide emerging movements in open science, open education, open government, and open culture. These movements are using Creative Commons licenses to broaden public access to knowledge, data, culture, and research around the world, creating new opportunities for education, innovation, and creativity.
+We've also created the [Institute for Open Leadership](https://creativecommons.org/weblog/entry/42762) to train new leaders in education, science, and public policy fields on the values and implementation of openness in licensing, policies, and practices. By training new leaders, connecting them to each other, and helping them complete their first capstone open project in their institution, we will prepare them to guide emerging movements in open science, open education, open government, and open culture. These movements are using Creative Commons licenses to broaden public access to knowledge, data, culture, and research around the world, creating new opportunities for education, innovation, and creativity.
 
 ### License compatibility: removing walls
 
