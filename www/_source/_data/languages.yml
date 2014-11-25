@@ -21,6 +21,10 @@
 - lang: fi
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Finnish.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Finnish.svg
+
+- lang: id
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.pdf
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.svg
   
 - lang: nl
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Dutch.pdf
