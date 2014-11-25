@@ -46,10 +46,10 @@
      id="namedview5114"
      showgrid="false"
      inkscape:zoom="0.63"
-     inkscape:cx="868.37035"
-     inkscape:cy="1475.5061"
-     inkscape:window-x="136"
-     inkscape:window-y="13"
+     inkscape:cx="804.87829"
+     inkscape:cy="332.64896"
+     inkscape:window-x="208"
+     inkscape:window-y="4"
      inkscape:window-maximized="0"
      inkscape:current-layer="Layer_1" /><rect
      style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -913,7 +913,7 @@
      letter-spacing="-14"
      id="text3708"
      x="476.70221"
-     y="5085.2178"
+     y="5079.2178"
      style="font-size:295.95040894px;letter-spacing:-14;fill:#60b349;font-family:BrandonGrotesque-Black"><tspan
        style="font-size:260px"
        id="tspan4048">100</tspan></text>
@@ -1442,7 +1442,7 @@
      id="text4044">58%</text>
 <g
      id="g4046"
-     transform="translate(37.910679,29.155344)"><text
+     transform="translate(37.910679,23.155344)"><text
        id="text4048"
        x="234.7784"
        y="2099.6326"
@@ -1500,7 +1500,7 @@
      id="text4060">76%</text>
 <g
      id="g4062"
-     transform="translate(43.890188,8.8444959)"><text
+     transform="translate(45.890188,-1.1555045)"><text
        id="text4064"
        x="694.58313"
        y="2099.6326"
@@ -1807,8 +1807,8 @@
      font-size="24"
      style="font-size:24px;fill:#60b349;font-family:BrandonGrotesque-Black"
      id="text11051"
-     x="60.555073"
-     y="3626.1111">DE VÍDsEOS</text>
+     x="68.555077"
+     y="3626.1111">DE VÍDEOS</text>
 <text
      font-size="24"
      id="text4280"
@@ -1892,7 +1892,7 @@
            height="41.622269"
            x="823.08038"
            y="4287.7266" /></flowRegion><flowPara
-         id="flowPara4113"></flowPara></flowRoot></g><text
+         id="flowPara4113" /></flowRoot></g><text
      font-size="264.6663"
      letter-spacing="-13"
      id="text4316"
@@ -2162,24 +2162,16 @@
      font-size="41.3634"
      id="text4498"
      style="font-size:40.00382233px;font-family:BrandonGrotesque-Black"
-     x="509.56436"
-     y="4770.7026"><tspan
-       style="font-size:24px"
+     x="482.23102"
+     y="4808.0361"><tspan
+       style="font-size:26px"
        id="tspan4053">LOS LIBROS DE TEXTO EN ABIERTO </tspan></text>
-<text
-     font-size="47.3625"
-     id="text4500"
-     style="font-size:32.02178192px;font-family:BrandonGrotesque-Black"
-     x="598.51807"
-     y="4853.4165"><tspan
-       style="font-size:30.00000191px"
-       id="tspan4055">UN AHORRO DE</tspan></text>
 <text
      font-size="100.6695"
      id="text4504"
      style="font-size:70.28266907px;font-family:BrandonGrotesque-Black"
      x="488.43909"
-     y="5152.0713"><tspan
+     y="5156.0713"><tspan
        style="font-size:65px"
        id="tspan4051">MILLONES DE</tspan></text>
 <text
@@ -2187,7 +2179,7 @@
      id="text4506"
      style="font-size:93.45529938px;font-family:BrandonGrotesque-Black"
      x="485.71835"
-     y="5249.1807">DÓLARES</text>
+     y="5255.1807">DÓLARES</text>
 <g
      id="g4508"><path
        fill="#60B349"
@@ -2459,8 +2451,8 @@
      font-size="295.9504"
      letter-spacing="-14"
      id="text4688"
-     x="469.70221"
-     y="5079.2178"
+     x="474.81335"
+     y="5071.9795"
      style="font-size:295.95040894px;letter-spacing:-14;fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;font-family:BrandonGrotesque-Black"><tspan
        style="font-size:260px;stroke-width:6"
        id="tspan4046">100</tspan></text>
@@ -2618,10 +2610,11 @@
      font-size="100"
      id="text4748">37%</text>
 <text
-     transform="translate(21.4543,2755.7881)"
      font-size="28"
      id="text4750"
-     style="font-size:28px;font-family:BrandonGrotesque-Black">NORTEAMÉRICA</text>
+     style="font-size:28px;font-family:BrandonGrotesque-Black"
+     x="23.4543"
+     y="2757.7881">NORTEAMÉRICA</text>
 <rect
      x="19"
      y="2725"
@@ -3356,8 +3349,8 @@
          y="3665.366" /></flowRegion><flowPara
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:BrandonGrotesque-Black;-inkscape-font-specification:BrandonGrotesque-Black Medium"
        id="flowPara11047">MILLONES DE SITIOS WEB QUE UTILIZAN LAS LICENCIAS DE CREATIVE COMMONS</flowPara></flowRoot><text
-     y="5303.0029"
-     x="506.14136"
+     y="5305.0029"
+     x="500.14136"
      style="font-size:40.26480484px;font-family:BrandonGrotesque-Black"
      id="text11062"
      font-size="47.3625">A LOS ESTUDIANTES</text>
@@ -3392,13 +3385,13 @@
          id="flowPara4103">Comparte este informe con un amigo o un colega.</flowPara></flowRoot></g><text
      xml:space="preserve"
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="576.93091"
-     y="4809.0688"
+     x="477.81979"
+     y="4847.1641"
      id="text4057"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4059"
-       x="576.93091"
-       y="4809.0688"
-       style="font-size:28.00000191px">HAN REPRESENTADO </tspan></text>
+       x="477.81979"
+       y="4847.1641"
+       style="font-size:25px">HAN REPRESENTADO UN AHORRO DE </tspan></text>
 </svg>

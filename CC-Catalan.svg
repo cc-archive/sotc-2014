@@ -45,10 +45,10 @@
      inkscape:window-height="755"
      id="namedview5114"
      showgrid="false"
-     inkscape:zoom="0.73"
-     inkscape:cx="544.83086"
-     inkscape:cy="2319.9265"
-     inkscape:window-x="3"
+     inkscape:zoom="0.63"
+     inkscape:cx="608.32292"
+     inkscape:cy="5177.0694"
+     inkscape:window-x="120"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="Layer_1" /><rect
@@ -913,7 +913,7 @@
      letter-spacing="-14"
      id="text3708"
      x="476.70221"
-     y="5085.2178"
+     y="5079.2178"
      style="font-size:295.95040894px;letter-spacing:-14;fill:#60b349;font-family:BrandonGrotesque-Black"><tspan
        style="font-size:260px"
        id="tspan4048">100</tspan></text>
@@ -1593,10 +1593,10 @@
        font-size="56"
        id="text4106"
        style="font-size:48.02494049px;font-family:BrandonGrotesque-Black"
-       x="-54.579262"
+       x="-45.012291"
        y="2548.428"><tspan
          style="font-size:38.26787186px"
-         id="tspan5373">On es publiquen les obres subjectes a llicències de CCO</tspan></text>
+         id="tspan5373">On es publiquen les obres subjectes a llicències de CC</tspan></text>
 </g><path
      d="M63.6,3437.7c-12.6-1.3-22.2-2.3-33.6-3.5c0-0.6,8.8-0.8,19.1-0.8c14.3,0,28.9-0.1,43,0c44.5,0.4,88.3,0.3,131.3-0.7  c5.2-0.1,12.2-0.1,17.4,0c46.5,1,93.2,1.1,140.5,0.2c15.7-0.3,29.9-0.3,42.8,0.6c5.8,0.4,16.8,0.6,25.9,0.6  c32.1,0.2,64.4,0.3,96.6,0.4c64.4,0.3,128.9,0.7,193.3,1c16.7,0.1,33.7,0.4,50,0.3c48.2-0.4,92.1,0.8,137.5,1.4  c3.2,0,5.9,0.2,8.7,0.4c-1.4,2.1-1.9,2.1-28.3,2c-94.5-0.3-189-0.7-283.5-0.8c-37.8,0-76.1,0.6-113.9,1.1  c-34.6,0.4-66.5,0.2-95.6-1.2c-6.5-0.3-14.9-0.5-22.9-0.6c-47.5-0.4-95.1-0.9-140.8,0.8c-10.5,0.4-22.3,0.6-34,0.8  c-16.3,0.3-31.9,0.2-38.6-1c-4.9-0.9-15.2-1.2-28.1-1.1c-21.4,0.1-42.8,0.2-64.2,0.3C78,3437.6,69.9,3437.7,63.6,3437.7z"
      id="path4108" /><path
@@ -2125,18 +2125,10 @@
      font-size="41.3634"
      id="text4498"
      style="font-size:40.00382233px;font-family:BrandonGrotesque-Black"
-     x="495.56436"
-     y="4770.7026"><tspan
-       style="font-size:26px"
+     x="474.92944"
+     y="4800.0361"><tspan
+       style="font-size:28.00000191px"
        id="tspan4053"> ELS LLIBRES DE TEXT EN OBERT</tspan></text>
-<text
-     font-size="47.3625"
-     id="text4500"
-     style="font-size:32.02178192px;font-family:BrandonGrotesque-Black"
-     x="624.76465"
-     y="4856.1562"><tspan
-       style="font-size:30.00000191px"
-       id="tspan4055">ESTALVI DE</tspan></text>
 <text
      font-size="100.6695"
      id="text4504"
@@ -2149,7 +2141,7 @@
      font-size="93.4553"
      id="text4506"
      style="font-size:93.45529938px;font-family:BrandonGrotesque-Black"
-     x="511.71835"
+     x="519.71838"
      y="5249.1807">DÓLARS</text>
 <g
      id="g4508"><path
@@ -2258,7 +2250,7 @@
      points="141.1,0 0,0 0,127.9 88.8,95.9 "
      id="polygon4618" /><g
      id="g10998"
-     transform="matrix(0.61881946,0,0,0.61881946,-64.630791,137.2268)"><g
+     transform="matrix(0.61881946,0,0,0.61881946,-48.630791,137.2268)"><g
        id="g4610"><text
          id="text4612"
          x="273.84158"
@@ -2410,8 +2402,8 @@
      font-size="295.9504"
      letter-spacing="-14"
      id="text4688"
-     x="469.70221"
-     y="5079.2178"
+     x="476.05142"
+     y="5071.8843"
      style="font-size:295.95040894px;letter-spacing:-14;fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;font-family:BrandonGrotesque-Black"><tspan
        style="font-size:260px;stroke-width:6"
        id="tspan4046">100</tspan></text>
@@ -2492,18 +2484,18 @@
      style="font-size:28px;font-family:BrandonGrotesque-Black"
      transform="translate(31.6883,3342.5457)">AMÈRICA LLATINA</text>
 <rect
-     x="32.8"
+     x="54.799999"
      y="3311.8"
-     fill="#888985"
-     width="206.9"
+     width="206.89999"
      height="4"
-     id="rect4726" /><rect
-     x="32.8"
+     id="rect4726"
+     style="fill:#888985" /><rect
+     x="54.799999"
      y="3348.8"
-     fill="#888985"
-     width="206.9"
+     width="206.89999"
      height="4"
-     id="rect4728" /><text
+     id="rect4728"
+     style="fill:#888985" /><text
      transform="matrix(1 0 0 1 402.5256 2674.2148)"
      fill="#2EA4BF"
      font-family="'BrandonGrotesque-Black'"
@@ -3322,13 +3314,13 @@
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:BrandonGrotesque-Black;-inkscape-font-specification:BrandonGrotesque-Black Medium"
        id="flowPara5377" /></flowRoot><text
      y="5303.0029"
-     x="532.14136"
+     x="540.14136"
      style="font-size:40.26480484px;font-family:BrandonGrotesque-Black"
      id="text11062"
      font-size="47.3625">ALS ESTUDIANTS</text>
 <g
      id="g11074"
-     transform="translate(0,36.000002)"><g
+     transform="translate(0,34.000002)"><g
        transform="translate(0,120)"
        id="g4592"><text
          style="font-size:12px"
@@ -3341,7 +3333,7 @@
            y="5379.0391"
            x="58.548542">stateof.creativecommons.org</tspan></text>
 </g><flowRoot
-       transform="translate(-1.6901638e-5,0)"
+       transform="translate(-2.000017,-6.0000003)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot11064"
        xml:space="preserve"><flowRegion
@@ -3355,13 +3347,13 @@
          id="flowPara5385">Doneu suport a uns emprius vius i en augment. Compartiu aquest informe amb un amic o un col·lega. </flowPara></flowRoot></g><text
      xml:space="preserve"
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="549.75281"
-     y="4811.8081"
+     x="467.21313"
+     y="4844.3159"
      id="text4057"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4059"
-       x="549.75281"
-       y="4811.8081"
-       style="font-size:28.00000191px">HAN REPRESENTAT UN</tspan></text>
+       x="467.21313"
+       y="4844.3159"
+       style="font-size:28.00000191px">HAN REPRESENTAT UN ESTALVI DE</tspan></text>
 </svg>
