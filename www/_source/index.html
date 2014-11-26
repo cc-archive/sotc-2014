@@ -49,7 +49,7 @@ permalink: /
 				<p>
 					{% for language in site.data.languages %}
 						{% capture downloads %}{% if language.png %}&#160;&#47;&#160;<a href="{{ language.png }}">PNG</a>{% endif %}{% if language.pdf %}&#160;&#47;&#160;<a href="{{ language.pdf }}">PDF</a>{% endif %}{% if language.svg %}&#160;&#47;&#160;<a href="{{ language.svg }}">SVG</a>{% endif %}{% endcapture %}
-						{{ language.lang | upcase }}&#160;({{ downloads | remove_first: "&#160;&#47;&#160;" }})
+						{{ language.lang | upcase | replace: ' ', '&#160;' }}&#160;({{ downloads | remove_first: "&#160;&#47;&#160;" }})
 					{% endfor %}
 				</p>
 				<p><a href="http://lemonly.com/">Infographic created by Lemonly</a>.</p>
