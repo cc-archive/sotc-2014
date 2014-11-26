@@ -48,7 +48,8 @@ permalink: /
 				<h2>Download this infographic</h2>
 				<p>
 					{% for language in site.data.languages %}
-						{{ language.lang | upcase }} (<a href="{{ language.pdf }}" download>PDF</a> / <a href="{{ language.svg }}" download>SVG</a>)
+						{% capture downloads %}{% if language.png %}&#160;&#47;&#160;<a href="{{ language.png }}">PNG</a>{% endif %}{% if language.pdf %}&#160;&#47;&#160;<a href="{{ language.pdf }}">PDF</a>{% endif %}{% if language.svg %}&#160;&#47;&#160;<a href="{{ language.svg }}">SVG</a>{% endif %}{% endcapture %}
+						{{ language.lang | upcase }}&#160;({{ downloads | remove_first: "&#160;&#47;&#160;" }})
 					{% endfor %}
 				</p>
 				<p><a href="http://lemonly.com/">Infographic created by Lemonly</a>.</p>
