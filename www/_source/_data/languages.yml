@@ -2,6 +2,11 @@
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Arabic.pdf
   png: https://www.flickr.com/photos/129588875@N07/15665794108/sizes/o/
 
+- lang: ca
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Catalan.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Catalan.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Catalan.png  
+  
 - lang: cs
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Czech.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Czech.svg
@@ -21,6 +26,16 @@
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC.svg
   png: https://github.com/creativecommons/stateofthe/raw/master/CC.png
+
+- lang: es (latam)
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Spanish-LatinAmerica.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Spanish-LatinAmerica.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Spanish-LatinAmerica.png
+  
+- lang: es (spain)
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Spanish-Spain.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Spanish-Spain.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Spanish-Spain.png
 
 - lang: fi
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Finnish.pdf
