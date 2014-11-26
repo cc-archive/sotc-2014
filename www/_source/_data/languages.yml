@@ -5,26 +5,32 @@
 - lang: cs
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Czech.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Czech.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Czech.png  
 
 - lang: da
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Danish.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Danish.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Danish.png
 
 - lang: de
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-German.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-German.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-German.png 
 
 - lang: en
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC.png
 
 - lang: fi
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Finnish.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Finnish.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Finnish.png
 
 - lang: id
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.pdf
-  png: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.svg
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.png
   
 - lang: nl
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Dutch.pdf
@@ -33,3 +39,4 @@
 - lang: pt
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Portuguese.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Portuguese.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Portuguese.png
