@@ -5,7 +5,7 @@
 - lang: ca
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Catalan.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Catalan.svg
-  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Catalan.png  
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Catalani'm.png  
   
 - lang: cs
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Czech.pdf
@@ -46,6 +46,11 @@
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.pdf
   svg: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.svg
   png: https://github.com/creativecommons/stateofthe/raw/master/CC-BahasaIndonesia.png
+
+- lang: ko
+  pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Korea.pdf
+  svg: https://github.com/creativecommons/stateofthe/raw/master/CC-Korea.svg
+  png: https://github.com/creativecommons/stateofthe/raw/master/CC-Korea.png
   
 - lang: nl
   pdf: https://github.com/creativecommons/stateofthe/raw/master/CC-Dutch.pdf
