@@ -7,5 +7,5 @@
 |Freebase|39 million|all CC BY|https://developers.google.com/freebase/faq#how_big_is_freebase (same as 2014)|
 |DeviantArt|18 million|CC BY: 1,128,465; CC BY-SA: 840,407; CC BY-ND: 1,417,293; CC BY-NC: 619,170; CC BY-NC-SA: 1,817,106; CC BY-NC-ND: 12,270,444 Note: Due to late submission of data, these numbers are not included in the license breakdown bar graph.|Source at DeviantArt|
 |Geonames|10 million|all CC BY|http://www.geonames.org/about.html (same as 2014)|
-|YouTube|10 million|all CC BY|Source at YouTube|
+|YouTube|13 million|all CC BY|Source at YouTube|
 |Libre.fm|133 million|all CC BY-SA|https://librefm.wordpress.com/2015/11/13/133-million-songs-and-counting/|
