@@ -2,3 +2,4 @@ source:      _source
 destination: _build
 markdown: kramdown
 relative_permalinks: true
+baseurl: /2014
